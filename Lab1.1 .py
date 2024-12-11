@@ -32,6 +32,7 @@ class LinkedList:
                 current.next = current.next.next
                 return
             current = current.next
+            
     def display(self):
         """แสดงข้อมูลทั้งหมดใน List"""
         current = self.head
