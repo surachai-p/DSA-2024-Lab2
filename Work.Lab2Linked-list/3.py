@@ -74,9 +74,9 @@ class StudentLinkedList:
 students = StudentLinkedList()
 
 # เพิ่มข้อมูลนักศึกษา
-students.add_student(66030270, "Phum", 3.5)
-students.add_student(66030001, "sudlor", 2.8)
-students.add_student(66030002, "sudsuy", 3.2)
+students.add_student(66030270, "Phum", 3.8)
+students.add_student(66030001, "sudlor", 2.2)
+students.add_student(66030002, "sudsuy", 3.1)
 
 # แสดงรายชื่อนักศึกษาทั้งหมด
 print("รายชื่อนักศึกษาทั้งหมด:")
